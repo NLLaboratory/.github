@@ -222,7 +222,7 @@ git tag
 
 查看当前分支下的标签
 
-![image-20221101211056349](D:/Note/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211056349.png)
+![image-20221101211056349](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211056349.png)
 
 可见我们已经创建了v1.2这个标签，那么我们在已经知道标签名字的情况下如何指定标签
 
@@ -236,7 +236,7 @@ git show 标签名
 
 例如：
 
-![image-20221101211258572](D:/Note/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211258572.png)
+![image-20221101211258572](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211258572.png)
 
 可见标签的哈希值和我们输入的标签值一致那么我们就已经这个提交的哈希值打上标签了
 
@@ -260,7 +260,7 @@ git tag -a 标签名字 提交版本 -m 附加信息
 git tag -a v1.3 970afb8451059badfe18be8cf3c68a787c50eb77 -m "修复了部分bug"
 ```
 
-![image-20221101211732234](D:/Note/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211732234.png)
+![image-20221101211732234](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211732234.png)
 
 可见我们已经为其打上一个标签了
 
@@ -272,7 +272,7 @@ git tag -a v1.3 970afb8451059badfe18be8cf3c68a787c50eb77 -m "修复了部分bug"
 git tag -d 标签名字
 ```
 
-![image-20221101211852671](D:/Note/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211852671.png)
+![image-20221101211852671](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211852671.png)
 
 可见我们已经将v1.2标签删除了
 
