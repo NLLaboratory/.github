@@ -106,6 +106,8 @@ git init
 git status
 ```
 
+详细可查看：[git status命令 - Git教程 (yiibai.com)](https://www.yiibai.com/git/git_status.html)
+
 因为我本文件夹中有除了.git之外的其他文件那么输入他之后就会有以下的提示出来
 
 ![image-20221028104432415](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028104432415.png)
@@ -182,7 +184,7 @@ git commit -am "(提交的名字)"
 
 参考来自：[Git基础 - git tag 一文真正的搞懂git标签的使用_NorthCastle的博客-CSDN博客_git tag](https://blog.csdn.net/qq_39505245/article/details/124705850)
 
-Git的标签准确讲来说就是给commit起变名。
+**Git的标签准确讲来说就是给commit起变名。**
 
 Git起标签的命令分为两种：
 
@@ -216,34 +218,6 @@ git tag v1.2 093eb925bfa64cc23f04d902e94559839417b7b0
 
 ![image-20221101211010502](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211010502.png)
 
-再通过命令
-
-```
-git tag
-```
-
-查看当前分支下的标签
-
-![image-20221101211056349](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211056349.png)
-
-可见我们已经创建了v1.2这个标签，那么我们在已经知道标签名字的情况下如何指定标签。
-
-###### 2.1.4.1.2查看指定标签
-
-可以通过命令：
-
-```
-git show 标签名
-```
-
-来查看指定标签
-
-例如：
-
-![image-20221101211258572](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211258572.png)
-
-可见标签的哈希值和我们输入的标签值一致那么我们就已经这个提交的哈希值打上标签了
-
 ###### 2.1.4.1.3*附加命令*
 
 ```
@@ -271,6 +245,40 @@ git tag -a v1.3 970afb8451059badfe18be8cf3c68a787c50eb77 -m "修复了部分bug"
 ![image-20221101211732234](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101211732234.png)
 
 可见我们已经为其打上一个标签了。
+
+###### 2.1.4.2查看本分支的标签
+
+在上面中我们已经介绍了两种打标签的方式，那么我们如何查看当前分支下现有的标签，可以通过以下命令：
+
+```
+git tag
+```
+
+还是以仓库
+
+> [南宁理工学院创新实践基地/组织介绍 - 码云 - 开源中国 (gitee.com)](https://gitee.com/NLLaboratory/organization-introduction/tree/master)
+
+为例子
+
+通过输入git tag可见
+
+![image-20221101220633731](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101220633731.png)
+
+那么我们在已知标签名字的仓库下如何查看标签的内容可以通过以下命令：
+
+```
+git show 标签的名字
+```
+
+而对于轻量化和附加命令的查看详细该命令显示的是不一样的
+
+![image-20221101220806904](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101220806904.png)
+
+在轻量化提交命令上只会显示版本提交的基本信息。
+
+![image-20221101220855788](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221101220855788.png)
+
+而附加命令的查看会将写的附加命令和版本基本信息都一起提交。
 
 ###### 2.1.4.1.4删除命令
 
@@ -303,7 +311,7 @@ git push 远程仓库的名字 --tags
 `git push 远程仓库的名字 标签名称` : 将指定的标签上传到远程仓库
 `git push 远程仓库的名字 --tags` : 将所有不在远程仓库中的标签上传到远程仓库
 
-本部分不做演示详细请看
+本部分不做演示详细请看：
 
 [Git基础 - git tag 一文真正的搞懂git标签的使用_NorthCastle的博客-CSDN博客_git tag](https://blog.csdn.net/qq_39505245/article/details/124705850)
 
