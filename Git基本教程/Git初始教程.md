@@ -551,4 +551,6 @@ git clone (克隆的远程仓库)
 
 每次提交之前请确保已经完成了[提交](#提交到本地暂存区)的工作，这样我们就已经完成了对于远程仓库的拉取和推送。
 
+![image](https://gitee.com/NLLaboratory/organization-introduction/blob/master/Git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20220806150931937.png)
+
 详细可以查看：[Git 远程仓库(Github) | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-remote-repo.html)
