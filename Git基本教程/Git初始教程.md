@@ -14,7 +14,8 @@ ___
 > **注意：**
 > 
 > **本Git教程仅使用命令行**来管理项目，如果你想看关于Git GUI的教程请查看[Git可视化极简易教程 — Git GUI使用方法 | 菜鸟教程 (runoob.com)](https://www.runoob.com/w3cnote/git-gui-window.html)
-> 本教程**不教授GUI的使用方法**，如果你希望教程包含Git GUI的使用教程，你可以补充Git GUI教程的内容。
+> 
+>本教程**不教授GUI的使用方法**，如果你希望教程包含Git GUI的使用教程，你可以补充Git GUI教程的内容。
 
 ### 1.1 为什么要使用Git管理工具
 
