@@ -58,7 +58,7 @@ ___
 
 ### 2.1 安装Git
 
-**Git官网**为：[Git (git-scm.com)](https://git-scm.com/)
+**Git官网**为：[Git](https://git-scm.com/)
 
 **详细的安装操作**可以参考这篇文章：[Git 详细安装教程（详解 Git 安装过程的每一个步骤）](https://blog.csdn.net/mukes/article/details/115693833)这篇文章可以让你知道在安装中应该选择选项。
 
