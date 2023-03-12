@@ -466,11 +466,13 @@ git remote -v
 git remote add (远程主机名) (远程仓库地址)
 ```
 
-以我的仓库[再赢亿把就睡觉/测试Git推送 (gitee.com)](https://gitee.com/QuiMIr/Test-git-push)
+以[本仓库](https://gitee.com/NLLaboratory/organization-introduction)为例子
 
-输入git remote add origin https://gitee.com/QuiMIr/Test-git-push.git
+输入git remote add origin https://gitee.com/NLLaboratory/organization-introduction
 
-![image-20221028113336474](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028113336474.png)
+![image-20230312223747005](../Git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20230312223747005.png)
+
+![image-20230312223802430](../Git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B/git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20230312223802430.png)
 
 可以看到我已经建立了链接那么如何推送到远程仓库那么就需要命令
 
