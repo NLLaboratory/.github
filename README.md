@@ -25,6 +25,7 @@
 
 <span id="参与贡献"/>
 ## 🪑参与贡献
+
 PR个人的学习笔记到[实验室通用资料](https://gitee.com/NLLaboratory/lab-notes.git)，或者向我们的项目PR并作出贡献。
 
 如果你不懂得如何使用Gitee，请**参考**[Git初始教程](https://gitee.com/NLLaboratory/organization-introduction/blob/master/Git基本教程/Git初始教程.md)。
