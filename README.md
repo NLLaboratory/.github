@@ -23,10 +23,9 @@
 
 或者你也可以联系我们的邮箱a2546670299@163.com
 
-<span id="参与贡献"/>
-## 🪑参与贡献
 
-PR个人的学习笔记到[实验室通用资料](https://gitee.com/NLLaboratory/lab-notes.git)，或者向我们的项目PR并作出贡献。
+## 🪑参与贡献
+PR个人的学习笔记到[实验室通用资料](https://gitee.com/NLLaboratory/lab-notes.git),或者向我们的项目PR并作出贡献。
 
 如果你不懂得如何使用Gitee，请**参考**[Git初始教程](https://gitee.com/NLLaboratory/organization-introduction/blob/master/Git基本教程/Git初始教程.md)。
 <!--你可以选择一个本组织的仓库来Fork他，我们会根据你对项目贡献的程度和综合表示来判断你是否可以成为本Gitee组织的管理员并且赋予你管理员的权限，也请同学们努力为我们组织做出自己的一份贡献。-->
