@@ -32,7 +32,7 @@ PR个人的学习笔记到[实验室通用资料](https://gitee.com/NLLaboratory
 
 如果你不懂得如何使用Gitee，请**参考**[Git初始教程](https://gitee.com/NLLaboratory/organization-introduction/blob/master/Git基本教程/Git初始教程.md)。
 
-关于贡献的参与度请参考[职位设置以及晋升规则](./职位设置以及晋升规则.md)
+关于贡献的详细规则请参考[职位设置以及晋升规则](https://gitee.com/NLLaboratory/organization-introduction/blob/master/%E8%81%8C%E4%BD%8D%E8%AE%BE%E7%BD%AE%E4%BB%A5%E5%8F%8A%E6%99%8B%E5%8D%87%E8%A7%84%E5%88%99.md)
 
 ## 🧐初衷
 
