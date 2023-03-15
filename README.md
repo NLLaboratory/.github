@@ -24,13 +24,15 @@
 
 或者你也可以联系我们的邮箱a2546670299@163.com
 
+或者是我们的加入我们的Github组织[NLLaboratory (github.com)](https://github.com/NLLaboratory)
+
 ## 🪑参与贡献
 
 PR个人的学习笔记到[实验室通用资料](https://gitee.com/NLLaboratory/lab-notes.git),或者向我们的项目PR并作出贡献。
 
 如果你不懂得如何使用Gitee，请**参考**[Git初始教程](https://gitee.com/NLLaboratory/organization-introduction/blob/master/Git基本教程/Git初始教程.md)。
 
-**我们会根据所有人PR的贡献以及项目的参与度，评选组织的管理员。**
+关于贡献的参与度请参考[职位设置以及晋升规则](./职位设置以及晋升规则.md)
 
 ## 🧐初衷
 
