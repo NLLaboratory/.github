@@ -24,7 +24,7 @@
 
 或者你也可以联系我们的邮箱a2546670299@163.com
 
-或者是我们的加入我们的Github组织[NLLaboratory (github.com)](https://github.com/NLLaboratory)
+或者加入我们的Github组织[NLLaboratory (github.com)](https://github.com/NLLaboratory)
 
 ## 🪑参与贡献
 
