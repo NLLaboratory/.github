@@ -290,11 +290,7 @@ git tag -a v1.3 970afb8451059badfe18be8cf3c68a787c50eb77 -m "修复了部分bug"
 git tag
 ```
 
-还是以仓库
-
-> [南宁理工学院创新实践基地/组织介绍 - 码云 - 开源中国 (gitee.com)](https://gitee.com/NLLaboratory/organization-introduction/tree/master)
-
-为例子
+还是以上面的仓库为例子
 
 通过输入git tag可见
 
@@ -455,8 +451,6 @@ git remote add (远程主机名) (远程仓库地址)
 git push (推送方式) (远程主机名) (本地分支)
 ```
 
-完整的推送方式可以参看这篇文章:[git push 命令 | 菜鸟教程 (runoob.com)](https://www.runoob.com/git/git-push.html)
-
 我们这里使用git push -u origin "master"的方式进行推送
 
 ![image-20221028113727781](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028113727781.png)
@@ -505,11 +499,7 @@ Git的查看历史记录的命令为：
 git log
 ```
 
-以仓库为
-
-> https://gitee.com/NLLaboratory/lab-notes.git
-
-为例子:
+以我们的实验室通用资料为例子：
 
 ![image-20221030184940806](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221030184940806.png)
 
@@ -525,7 +515,7 @@ git show (提交的编码)
 
 **注:提交的编号为commit后面那一串**
 
-以仓库[南宁理工学院创新实践基地/组织介绍 - 码云 - 开源中国 (gitee.com)](https://gitee.com/NLLaboratory/organization-introduction)为例子
+以我们组织的组织介绍为例子：
 
 ![image-20230315134308051](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20230315134308051.png)
 
@@ -545,7 +535,7 @@ git show fcf7ba2a3f54fb77a696fb56a67b6743d49a72be
 git show (标签的名字)
 ```
 
-还是以仓库[南宁理工学院创新实践基地/组织介绍 - 码云 - 开源中国 (gitee.com)](https://gitee.com/NLLaboratory/organization-introduction)为例子我们首先先查看是否有标签。
+还是以我们组织的组织介绍为例子我们首先先查看是否有标签。
 
 ![image-20230315134836176](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20230315134836176.png)
 
@@ -591,9 +581,7 @@ git reset --hard (提交的编号)
 git clone (克隆的远程仓库)
 ```
 
-以该仓库为例
-
-> https://gitee.com/NLLaboratory/lab-notes.git
+以该我们组织的实验室通用资料为例子：
 
 我们需要一个文件夹来存放，例如我是以D:\Git-Text为存放的路径可以随自己而定
 
