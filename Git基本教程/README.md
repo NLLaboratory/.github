@@ -294,8 +294,6 @@ git tag
 
 还是以仓库
 
-> [南宁理工学院创新实践基地/组织介绍 - 码云 - 开源中国 (gitee.com)](https://gitee.com/NLLaboratory/organization-introduction/tree/master)
-
 为例子
 
 通过输入git tag可见
