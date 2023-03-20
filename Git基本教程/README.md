@@ -60,3 +60,66 @@ Git是一种快捷的、拉取和推送远程仓库的一种管理工具，你�
 ### 1.4 Gitee帮助中心
 
 [gitee帮助中心](https://gitee.com/help)
+
+## 2.使用Git管理工具
+
+### 2.1 安装Git
+
+**Git官网**为：[Git](https://git-scm.com/)
+
+### 2.2 注册本地的账号和邮箱
+
+使用Git之前都需要创建自己的账号和邮箱以此来知道是谁推送了最新分支。
+以我的D盘为例，在D盘中的任意空白位置点击鼠标右键，选择```Git Bash Here```，或者直接在桌面选择```Git Bash```。如果没有```Git Bash```,那么就在自己Git的安装目录中打开并选择```git-bash.exe```.
+
+以下以我自己的安装(D:\Git)目录为例：
+
+![image-20221028101936567](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028101936567.png)
+
+在安装目录下面选择```git-bash.exe```后会显示一个git的小窗，git小窗的操作类似于shell命令行，所以是不能使用Windows上的快捷键的，否则可能会输入的乱码.
+
+进入小窗后先进行账号的初始化，命令为**git config --选项 信息 “(输入基本信息)”**
+
+**注册本地账号名字**的命令为：
+
+```shell
+git config --global user.name "(输入你的名字)"
+```
+
+例如我注册一个为QuiMir的名字
+
+![image-20221028102657429](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028102657429.png)
+
+查看**是否成功输入命令**
+
+```shell
+git config --global user.name
+```
+
+![image-20221028102813034](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028102813034.png)
+
+从控制台中可见，user.name的属性值为QuiMir
+
+而输入邮箱和注册账号同理：
+
+~~~shell
+git config --global user.email "(输入你的邮箱)"
+~~~
+
+> **注意：**
+>
+> **gitee的个人邮箱**在[此处](https://gitee.com/profile/emails)查看
+
+![image-20221028103014726](./git%E5%9F%BA%E6%9C%AC%E6%95%99%E7%A8%8B.assets/image-20221028103014726.png)
+
+查看邮箱输入和查看名字输入同理
+
+```shell
+git config --global user.email
+```
+
+这样我们就**完成了账号和邮箱的本地初始化**。
+
+>**注意：**
+>
+>以上的操作**只对本地Git仓库进行账号和邮箱初始化**。如果要进行远程推送，需要登录远程服务器的账号和密码
