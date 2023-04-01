@@ -2,9 +2,7 @@
 
 ## ➡️介绍
 
-同学们可以将自己的**学习方法和踩坑笔记**放在[实验室通用资料](https://gitee.com/NLLaboratory/lab-notes.git)里，供大家学习和参考。
-
-同时，笔记中也有学长学姐的踩坑和填坑的**笔记**，可以供大家参考。
+本组织的资料请查看[仓库索引](https://gitee.com/NLLaboratory/organization-introduction/blob/master/仓库索引.md))
 
 大家可以在组织中**申请创建项目**，以及与别人**合作完成项目**。
 
@@ -31,8 +29,6 @@
 PR个人的学习笔记到[实验室通用资料](https://gitee.com/NLLaboratory/lab-notes.git),或者向我们的项目PR并作出贡献。
 
 如果你不懂得如何使用Gitee，请**参考**[Git初始教程](https://gitee.com/NLLaboratory/organization-introduction/blob/master/Git基本教程/Git初始教程.md)。
-
-关于贡献的详细规则请参考[职位设置以及晋升规则](https://gitee.com/NLLaboratory/organization-introduction/blob/master/%E8%81%8C%E4%BD%8D%E8%AE%BE%E7%BD%AE%E4%BB%A5%E5%8F%8A%E6%99%8B%E5%8D%87%E8%A7%84%E5%88%99.md)
 
 ## 🧐初衷
 
