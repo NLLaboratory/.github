@@ -2,7 +2,7 @@
 
 ## ➡️介绍
 
-本组织的资料请查看[仓库索引](https://gitee.com/NLLaboratory/organization-introduction/blob/master/仓库索引.md))
+本组织的资料请查看[仓库索引](https://gitee.com/NLLaboratory/organization-introduction/blob/master/仓库索引.md)
 
 大家可以在组织中**申请创建项目**，以及与别人**合作完成项目**。
 
